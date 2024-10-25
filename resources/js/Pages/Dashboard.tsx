@@ -20,8 +20,8 @@ export default function Dashboard() {
                         <p className="p-6 text-gray-900 dark:text-gray-100">
                             Name
                         </p>
-                        <p className="p-6 text-gray-900 dark:text-gray-100">
-                            <input type="number" className='rounded bg-gray-300 text-black' />
+                        <p className="p-6 text-gray-900  dark:text-gray-100">
+                            <input type="number" className='rounded bg-gray-600 text-black' />
                         </p>
                         <p className="p-6 text-gray-900 dark:text-gray-100">
                             R$ 7.88
